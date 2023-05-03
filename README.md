@@ -2,7 +2,7 @@
 Este é um projeto de calculadora simples feito em Dart usando o framework Flutter. A calculadora permite que o usuário faça operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
 ## Meu vídeo:   https://youtu.be/W8Q9lLvtyeI sobre esse projeto!
-##Como executar o projeto
+## Como executar o projeto
 1. Certifique-se de ter o Flutter SDK instalado em sua máquina.
 2. Clone este repositório em sua máquina local.
 3. Abra o projeto em seu editor de código favorito.
